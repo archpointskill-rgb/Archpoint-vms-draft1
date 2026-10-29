@@ -1,0 +1,15 @@
+node_modules/
+.DS_Store
+*.log
+
+# Vercel
+.vercel/
+
+# Local environment files
+.env
+.env.*
+!.env.example
+
+# Windows and editor files
+Thumbs.db
+*.swp
